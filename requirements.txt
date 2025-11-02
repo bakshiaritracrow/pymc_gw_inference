@@ -1,0 +1,4 @@
+pymc>=5.0
+numpy
+matplotlib
+arviz
